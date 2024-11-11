@@ -1,7 +1,7 @@
 ## Olá, eu sou o Bruno! 👋
 ### Seja bem-vindo(a) ao meu repositório de Análise de Dados!
 
-Com mais de três anos de experiência, busco combinar dados com conhecimento de negócio para impulsionar resultados e aprimorar a qualidade das decisões, tendo atuado no setor bancário e no varejo.
+Analista de dados com mais de três anos de experiência, busco combinar dados com conhecimento de negócio para impulsionar resultados e aprimorar a qualidade das decisões, tendo atuado no setor bancário e no varejo.
 
 Ao longo da minha trajetória, desenvolvi análises nas áreas de marketing, produto e vendas, focado em atender às necessidades do negócio com soluções baseadas em dados. Minha atuação resultou na criação de ofertas e no desenvolvimento de novos produtos, colaborando também na construção de estratégias para o negócio.
 
